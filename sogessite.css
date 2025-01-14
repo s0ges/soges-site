@@ -1,11 +1,11 @@
 html {
-    background-color: rgb(255, 235, 190);
+    background-color: bisque;
 }
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:rgb(67, 47, 1);
 }
-h1.big {font-family: Verdana, Geneva, Tahoma, sans-serif;;
+h1.big {
     font-size: 100px;
 }
 h2 {
@@ -21,6 +21,10 @@ h4 {
     color:rgb(67, 47, 1);
 }
 h5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(67, 47, 1);
+}
+p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:rgb(67, 47, 1);
 }
