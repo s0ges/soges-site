@@ -5,6 +5,9 @@ h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:rgb(67, 47, 1);
 }
+h1.big {font-family: Verdana, Geneva, Tahoma, sans-serif;;
+    font-size: 100px;
+}
 h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:rgb(67, 47, 1);
