@@ -51,8 +51,9 @@ ul {
     height: 45px;
 }
 li {
-    float: left;
-    margin-right: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }
 li a:hover:not(.active) {
     background-color: #0f0f0f;
@@ -69,5 +70,5 @@ header.welcome {
 .suges {
     width: 60px;
     margin-top: -5px;
-    margin-left: -185px
+    margin-left: -2px
 }
