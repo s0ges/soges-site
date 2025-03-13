@@ -46,20 +46,24 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #222222;
+    background-color: #111111;
     width: 100%;
     height: 50px;
 }
 li {
     float: left;
-    color: #222222;
+    color: #111111;
 }
 li a:hover:not(.active) {
-    background-color: #0f0f0f;
+    background-color: #202020;
   }
-  
+
+  li a:hover {
+    background-color: #114ba3;
+  }
+
   .active {
-    background-color: #001a41;
+    background-color: #003a92;
     color: white;
   }
 header.welcome {
