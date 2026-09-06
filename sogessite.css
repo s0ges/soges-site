@@ -1,37 +1,13 @@
 html {
     background-color: rgb(119, 216, 255);
-}
-h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:rgb(255, 255, 255);
 }
 h1.big {
     font-size: 100px;
 }
-h2 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color:rgb(255, 255, 255);
-}
-h3 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color:rgb(255, 255, 255);
-}
-h4 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color:rgb(255, 255, 255);
-}
-h5 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color:rgb(255, 255, 255);
-}
-p {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color:rgb(255, 255, 255);
-}
 footer {
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color:rgb(255, 255, 255);
 }
 li a {
     display: block;
@@ -39,7 +15,6 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 ul {
     list-style-type: none;
